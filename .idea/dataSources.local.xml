@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - mybdlaba@localhost" uuid="51309b9c-e631-4dec-a0ee-e845a0c8e268">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>mybdlaba.*</schema-pattern>
+      <default-schemas>mybdlaba.*</default-schemas>
+    </data-source>
+  </component>
+</project>
